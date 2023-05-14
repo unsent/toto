@@ -9,7 +9,7 @@ class ApiIntegration(object):
     markets = "h2h"
     regions = "eu"
     odds_format = "decimal"
-    api_key = "9100fa1b92182d18118f3b0b36f74065"
+    api_key = ""
 
     # Create an empty list to store all the matches and odds
     def fetchMatchesWithOdds(self):
